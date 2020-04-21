@@ -7,5 +7,5 @@ a script python that plays the famous game "T-rex runner" automatically.
 - pyautogui
 
 ## Note :
-#### the code depends on your screen size and the position of the objects.
+the code depends on your screen size and the position of the objects.
 
